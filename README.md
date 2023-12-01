@@ -78,9 +78,10 @@ Classic UI with DARK & LIGHT theme settings
 
 ![Categories Page](https://firebasestorage.googleapis.com/v0/b/codewave-codebase-e052b.appspot.com/o/nextjs-blog%2Fposts%20categories%20-%20light.png?alt=media&token=fe03f7b0-79e9-4c3e-aaeb-51f7df279017)
 
+
 ### Admin Dashboard >>
 
-[// Add Admin Dashboard screenshot]
+![Admin Dashboard](https://firebasestorage.googleapis.com/v0/b/codewave-codebase-e052b.appspot.com/o/nextjs-blog%2Fadmin.png?alt=media&token=a96e398b-8d91-40ed-a938-b3714f7bccc4)
 
 &nbsp;
 &nbsp;
