@@ -63,20 +63,20 @@ Classic UI with DARK & LIGHT theme settings
 ## Screenshots:-
 
 ### Dark Theme >>
+![Banner](https://res.cloudinary.com/djs3wu5bg/image/upload/v1702011737/Codewave/q3k5ayoi1v696wl3ixvf.png)
+
 
 ![Home Page](https://firebasestorage.googleapis.com/v0/b/codewave-codebase-e052b.appspot.com/o/nextjs-blog%2FHome.png?alt=media&token=b157b478-9a66-4ee9-9f94-c21b92c2e16e)
 
 ![Pagination](https://firebasestorage.googleapis.com/v0/b/codewave-codebase-e052b.appspot.com/o/nextjs-blog%2Fposts%20with%20pagination.png?alt=media&token=b39e1bc8-73b6-41dc-8a47-e0e4f03d7d21)
 
-![Post Detail](https://firebasestorage.googleapis.com/v0/b/codewave-codebase-e052b.appspot.com/o/nextjs-blog%2Fposts%20detail.png?alt=media&token=e6b96b27-4a11-4f8b-98d0-8cc74c8dfc45)
+![Post Detail](https://res.cloudinary.com/djs3wu5bg/image/upload/v1702011971/Codewave/bytcb7p3kpwxvu6f4h7q.png)
 
 ![Sign-in Page](https://firebasestorage.googleapis.com/v0/b/codewave-codebase-e052b.appspot.com/o/nextjs-blog%2FSignin%20-%20Dark.png?alt=media&token=b3abdef1-5c0c-404c-a81b-94d558a6bb76)
 
 ### Light Theme >>
 
 ![Sign-in Page](https://firebasestorage.googleapis.com/v0/b/codewave-codebase-e052b.appspot.com/o/nextjs-blog%2FSignin%20-light.png?alt=media&token=066aac30-bf42-4ee2-952e-3d089bb1dd72)
-
-![Categories Page](https://firebasestorage.googleapis.com/v0/b/codewave-codebase-e052b.appspot.com/o/nextjs-blog%2Fposts%20categories%20-%20light.png?alt=media&token=fe03f7b0-79e9-4c3e-aaeb-51f7df279017)
 
 
 ### Admin Dashboard >>
