@@ -38,7 +38,7 @@ export const posts = [
       "        Hello World\n" +
       "    &lt;/div&gt;\n" +
       ' */</code></pre><p style="text-align: start">HTML attributes can also be overridden, with a <a target="_blank" rel="noopener ugc nofollow" class="af lw" href="https://github.com/probablyup/markdown-to-jsx#usage"><u>few exceptions</u></a>.</p><h2 style="text-align: start"><strong>HTML is a-ok.</strong></h2><p style="text-align: start">Most markdown parsers steer clear of handling HTML and ones targeting JSX often have to resort to using <code>dangerouslySetInnerHTML</code>, an escape hatch that opens up your code to various security risks.</p><p style="text-align: start"><code>markdown-to-jsx</code> itself had to utilize this functionality in an earlier version, but as of v6 that is no longer the case! It’s all good now.</p><h2 style="text-align: start"><strong>Github-Flavored Markdown (GFM) syntaxes are supported.</strong></h2><p style="text-align: start">GFM <a target="_blank" rel="noopener ugc nofollow" class="af lw" href="https://github.github.com/gfm/"><u>adds a ton of useful functionality</u></a> to markdown like HTML tables, task lists, strikethrough formatting, and more.</p><p style="text-align: start">—</p><p style="text-align: start">All this weighs in at <a target="_blank" rel="noopener ugc nofollow" class="af lw" href="https://bundlephobia.com/result?p=markdown-to-jsx%406.0.3"><u>just over 5kB gzipped</u></a>.</p><p style="text-align: start">Special thanks are owed to the <a target="_blank" rel="noopener ugc nofollow" class="af lw" href="https://github.com/Khan/simple-markdown"><u>simple-markdown</u></a> team for creating an extremely simple, but highly-extensible markdown framework. A forked version of their parsing engine is the baseline for all the functionality above and much more to come. 🙏🏼</p><p style="text-align: start"><em>Check out my other project: </em><a target="_blank" rel="noopener ugc nofollow" class="af lw" href="https://buttermilk.js.org/"><u>buttermilk</u></a>, beautifully simple routing for React</p>',
-    img: "https://firebasestorage.googleapis.com/v0/b/blogwave-4bb76.appspot.com/o/1700478543134original-ce6c979e9348162086c30c51d36d6890.png?alt=media&token=7d40d0f2-dcf6-48d2-acbe-f88484557681",
+    img: "https://firebasestorage.googleapis.com/v0/b/codewave-codebase-e052b.appspot.com/o/nextjs-blog%2FSignin%20-%20Dark.png?alt=media&token=b3abdef1-5c0c-404c-a81b-94d558a6bb76",
     cat: "CODING",
     views:
       Array(50)[
@@ -308,7 +308,7 @@ export const writer = {
   ],
 };
 
-export const comments = [
+export const COMMENTS = [
   {
     _id: "655ce52bde4a69fbc727abac",
     user: { _id: "655acf151a4659413d8ab136", name: "CodeWave Mordecai" },
